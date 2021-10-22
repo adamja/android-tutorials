@@ -35,7 +35,7 @@ android {
                 srcDirs 'src\\main\\resources', 'src\\main\\resources\\layouts\\layout'
             }
             res {
-                srcDirs 'src\\main\\res', 'src\\main\\res\\layouts\\material-design'
+                srcDirs 'src\\main\\res', 'src\\main\\res\\layouts\\material-design', 'src\\main\\res\\threading'
             }
         }
     }
