@@ -8,3 +8,4 @@ dependencyResolutionManagement {
 }
 rootProject.name = "KotlinTutorials"
 include ':app'
+include ':livedatatest'
